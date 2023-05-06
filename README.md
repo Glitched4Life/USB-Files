@@ -1,6 +1,12 @@
 # USB-Files
 I DO NOT TAKE CREDIT FOR THE GAME FILES IN THIS REPOSITORY!!!!
 
+This one is my ALL TIME FAVORITE!!!
+
+[minecraft-updated-1.8-textures-main.zip](https://github.com/Glitched4Life/USB-Files/files/11413121/minecraft-updated-1.8-textures-main.zip)
+
+
+
 
 [QualityArmory1.8v1.0.3.zip](https://github.com/Glitched4Life/USB-Files/files/11413097/QualityArmory1.8v1.0.3.zip)
 
